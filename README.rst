@@ -2,7 +2,7 @@
 This repository contains an implementation of the HHL algorithm for a specific
 4 x 4 matrix:
 
-.. code::python
+.. code:: python
 
     A = 1/4 * numpy.array([[15, 9, 5, -3],
                            [9, 15, 3, -5],
@@ -36,9 +36,9 @@ The installation procedure is composed of multiple steps, some of them being opt
 
 3) Install the requirements:
 
- .. code:: shell
+.. code:: shell
 
-    pip install -r requirements.txt
+   pip install -r requirements.txt
 
 4) Install the HHL implementation:
 
