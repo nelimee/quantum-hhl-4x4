@@ -1,4 +1,7 @@
 
+.. image:: https://zenodo.org/badge/156688451.svg
+   :target: https://zenodo.org/badge/latestdoi/156688451
+
 This repository contains an implementation of the HHL algorithm for a specific
 4 x 4 matrix:
 
